@@ -1,3 +1,7 @@
+# PLEASE DON'T USE THIS ANYMORE!!
+Use my new and (very, very, **very**) improved [audiosurf-rpc](github.com/rubberduckshobe/audiosurf-rpc) instead because that actually works properly and is more convenient (doesn't choke on japanese, korean, chinese or specific songs, has proper capitalization, runs and starts with/inside the game)
+Thank you.
+
 # AudiosurfRichPresence
 ## What does it do?
 It shows if you're on the character select screen, what song you're playing and the score you got on Discord using Discord Rich Presence.
